@@ -1,3 +1,4 @@
+package conta_banco;
 
 public class TstConta {
     public static void main(String[] args) throws Exception {

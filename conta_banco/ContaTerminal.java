@@ -1,3 +1,4 @@
+package conta_banco;
 
 public class ContaTerminal {
     private int numero = 0;
