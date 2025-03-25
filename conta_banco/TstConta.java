@@ -1,7 +1,7 @@
 package conta_banco;
 
 public class TstConta {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args){
 
         // Instânciando a classe Conta Terminal e a classe Leitura que é responsável
         // pela entrada e saída de dados.
